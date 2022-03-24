@@ -1,0 +1,19 @@
+<style>
+    .div-inline{
+        display:inline-block;
+    }
+</style> 
+<div class="container">
+    <form #userForm="ngForm" (ngSubmit)="onSubmit(userForm.value)" >  
+    <div class=" form-check-inline col-md-10">
+      <select id="" name="subject" ngModel class="form-select col-md-8">
+        <option value=""> Select Subject</option>
+        <option value="html">HTML</option>
+        <option value="css">CSS</option>
+        <option value="angular">Angular</option>
+        <option value="node">Node</option> 
+      </select> 
+    </div>  
+      <button class="btn-primary">Start test</button>  
+  </form>
+</div>

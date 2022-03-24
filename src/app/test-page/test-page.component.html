@@ -1,0 +1,21 @@
+<H5>Answer the given questions  on {{subject.toUpperCase()}}</H5>
+<form #userForm="ngForm" (ngSubmit)="onSubmit(userForm.value)" >
+<div class="row">
+    <div *ngFor="let quest of questions" class="card col-md-4" width="200px">
+        <b>Question:{{quest.id}}</b> 
+        <b>{{quest.question}} </b>  
+        option 1: {{quest.option1}} <br>
+        option 2: {{quest.option2}} <br>
+        option 3: {{quest.option3}}<br>
+        <div class="card col-md-10"><input type="number" name="answer{{quest.id}}" placeholder="type correct option number" required ngModel></div>
+        <div *ngIf="isSubmited">
+            Your answer is <b>{{result['result'+quest.id]}}</b><br>
+            Answer: <b>{{result['answer'+quest.id]}}</b>
+        </div>
+    </div>
+</div>
+<div class="row" style="margin-top: 20px;">
+    <button class="btn btn-success">Submit</button>
+</div>
+</form>
+

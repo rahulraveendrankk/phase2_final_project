@@ -1,0 +1,42 @@
+[  
+    {  
+      "id": 1,  
+      "question": "What is node?",  
+      "option1": "http Markup Language",  
+      "option2": "used to write server-side applications", 
+      "option3": "Hypertext marking Language", 
+      "answer": "used to write server-side applications"  
+    },  
+    {  
+      "id": 2,  
+      "question": "What is node?",  
+      "option1": "http Markup Language",  
+      "option2": "used to write server-side applications", 
+      "option3": "Hypertext marking Language", 
+      "answer": "used to write server-side applications"  
+    },  
+    {  
+      "id": 3,  
+      "question": "What is node?",  
+      "option1": "http Markup Language",  
+      "option2": "used to write server-side applications", 
+      "option3": "Hypertext marking Language", 
+      "answer": "used to write server-side applications"  
+    },  
+    {  
+      "id": 4,  
+      "question": "What is node?",  
+      "option1": "http Markup Language",  
+      "option2": "used to write server-side applications", 
+      "option3": "Hypertext marking Language", 
+      "answer": "used to write server-side applications"  
+    },  
+    {  
+      "id": 5,  
+      "question": "What is node?",  
+      "option1": "http Markup Language",  
+      "option2": "used to write server-side applications", 
+      "option3": "Hypertext marking Language", 
+      "answer": "used to write server-side applications"  
+    }
+  ]  

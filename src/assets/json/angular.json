@@ -1,0 +1,42 @@
+[  
+    {  
+      "id": 1,  
+      "question": "What is Angular?",  
+      "option1": "http Markup Language",  
+      "option2": "A component-based framework", 
+      "option3": "Hypertext marking Language", 
+      "answer": "A component-based framework"  
+    },  
+    {  
+      "id": 2,  
+      "question": "What is Angular?",  
+      "option1": "http Markup Language",  
+      "option2": "A component-based framework", 
+      "option3": "Hypertext marking Language", 
+      "answer": "A component-based framework"  
+    },  
+    {  
+      "id": 3,  
+      "question": "What is Angular?",  
+      "option1": "http Markup Language",  
+      "option2": "A component-based framework", 
+      "option3": "Hypertext marking Language", 
+      "answer": "A component-based framework"  
+    },  
+    {  
+      "id": 4,  
+      "question": "What is Angular?",  
+      "option1": "http Markup Language",  
+      "option2": "A component-based framework", 
+      "option3": "Hypertext marking Language", 
+      "answer": "A component-based framework"  
+    },  
+    {  
+      "id": 5,  
+      "question": "What is Angular?",  
+      "option1": "http Markup Language",  
+      "option2": "A component-based framework", 
+      "option3": "Hypertext marking Language", 
+      "answer": "A component-based framework"  
+    }
+  ]  
